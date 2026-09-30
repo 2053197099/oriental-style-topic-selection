@@ -1,0 +1,4 @@
+interface:
+  display_name: "东方风格选题"
+  short_description: "参考图片推荐东方选题，确认后输出各十个角色与场景方向，不生成提示词"
+  default_prompt: "使用 $oriental-style-topic-selection 根据这张风格图片推荐 2–3 个东方题材选题并说明原因，等我选择后给出角色和场景方向。"
