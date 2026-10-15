@@ -163,6 +163,17 @@ git clone https://github.com/2053197099/oriental-style-topic-selection.git .agen
 
 不会自动向其他聊天发送消息。普通创作也不会修改 Skill 文件或执行 Git 操作。
 
+## 在东方图库流程中的位置
+
+| 你现在要做什么 | 使用的 Skill | 得到什么 |
+| --- | --- | --- |
+| 还没确定题材，先找方向 | [东方风格选题](https://github.com/2053197099/oriental-style-topic-selection) | 候选题材；选定后给出简短世界观、角色与场景方向 |
+| 已有题材，要设计角色 | [东方题材角色](https://github.com/2053197099/midjourney-oriental-game-characters) | 原创角色的中英文 Midjourney 提示词 |
+| 已有题材，要设计环境 | [东方题材场景](https://github.com/2053197099/midjourney-wuxia-environments) | 纯环境场景的中英文 Midjourney 提示词 |
+| 已有筛选好的原图和提示词 | [图文作品排版](https://github.com/2053197099/image-prompt-layout) | 每张原图一张上图下文 PNG，以及图片与提示词配对清单 |
+
+四个 Skill 可以单独使用，不必从选题开始。角色与场景 Skill 的交付是提示词文本；实际出图需在你使用的图像生成工具中完成。跨聊天继续时，请主动复制已确认的世界观、方向或提示词，并上传对应原图与清单；共用环境不表示任务素材自动共享。飞书整理需另行授权与连接，这四个 Skill 不会自动访问飞书或向其他聊天发消息。
+
 ## 项目文件
 
 | 文件 | 用途 |
